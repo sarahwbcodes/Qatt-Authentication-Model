@@ -1,0 +1,3 @@
+0 Qatt
+1 Non-Qatt
+2 Mix
